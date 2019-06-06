@@ -9,3 +9,7 @@ span.emoji {
 p.big {
   font-size: 120px;
 }
+
+.grid {
+  width: 100%;
+}
