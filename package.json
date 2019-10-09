@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "config": {
-    "name": "slides/20190606-meguroes"
+    "name": "slides/20191009-tc39study"
   },
   "scripts": {
     "new": "node scripts/init.js $npm_package_config_name",
