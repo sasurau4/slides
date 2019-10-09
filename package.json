@@ -10,11 +10,12 @@
   "scripts": {
     "new": "node scripts/init.js $npm_package_config_name",
     "start": "fusuma start -d $npm_package_config_name",
-    "build": "fusuma build -d $npm_package_config_name"
+    "build": "fusuma build -d $npm_package_config_name",
+    "pdf": "fusuma pdf -i $npm_package_config_name"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "fs-extra": "^8.1.0",
-    "fusuma": "^1.1.2"
+    "fusuma": "^1.15.0"
   }
 }

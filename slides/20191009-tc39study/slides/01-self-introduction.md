@@ -2,8 +2,6 @@
 
 ## ABOUT ME
 
-<br />
-
 ```json
 {
   "id": "sasurau4",
@@ -13,7 +11,6 @@
     "work": ["React Native", "TypeScript", "JavaScript", "MongoDB"],
     "subwork": ["React Native", "React", "TypeScript"],
     "hobby": ["React", "TypeScript", "JavaScript", "Deno"]
-  },
   },
   "homepage": "https://sasurau4.github.io/profile/"
 }
